@@ -1,0 +1,8 @@
+3.5 - diárias
+3 - gastos terceiros
+
+
+- como parametrizar data da busca
+
+- data atual
+print(time.strftime('%d/%m/%Y'))

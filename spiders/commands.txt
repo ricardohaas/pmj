@@ -1,0 +1,20 @@
+commands
+
+anaconda prompt *like a cmd
+
+cd "C:\Users\ricar\Desktop\Dev\python"
+
+conda activate p35
+
+conda activate p36
+
+scrapy runspider blogspider.py
+
+C:\Users\ricar\Desktop\Dev\python\scripts\scrapy\mongod.conf
+
+C:\Program Files\MongoDB\Server\3.6\bin\mongod -f "C:\Users\ricar\Desktop\Dev\mongo\mongod.conf"
+
+https://www.mkyong.com/mongodb/how-to-create-database-or-collection-in-mongodb/
+
+cd C:\Program Files\MongoDB\Server\3.6\bin\
+mongod.exe -f  "C:\Users\ricar\Desktop\Dev\mongo\mongod.conf"
