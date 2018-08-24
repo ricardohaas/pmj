@@ -4,9 +4,15 @@ anaconda prompt *like a cmd
 
 cd "C:\Users\ricar\Desktop\Dev\python"
 
+conda create -n p36 python=3.6 anaconda
+
 conda activate p35
 
 conda activate p36
+
+python -m pip install --upgrade pip
+
+pip install Scrapy
 
 scrapy runspider blogspider.py
 
